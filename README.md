@@ -3,6 +3,16 @@
 This is a simple Flask-based personal portfolio web application for showcasing professional experience, skills, and certifications.
 The application serves a static HTML page styled with Bootstrap 5 and custom CSS.
 
+
+## 🚀 Features
+
+- ⚙️ Built with **Flask** (Python web framework)
+- 💼 Showcases professional experience in **DevOps**, **Cloud**, and **Automation**
+- 🧰 Highlights skills in **Docker**, **AWS**, **Azure**, **Terraform**, **Jenkins**, **Ansible**, and **Kubernetes**
+- 🪪 Displays Microsoft Certifications (AZ-900, AZ-104)
+
+
+
 Project Structure
 flask-portfolio/
 │
@@ -10,4 +20,5 @@ flask-portfolio/
 ├── templates/
 │   └── index.html          # Portfolio HTML page (the one shown above)
 └── README.md               # Project documentation
+
 
